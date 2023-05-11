@@ -7,4 +7,4 @@ TOKEN = config("TOKEN")
 bot = Bot(TOKEN)
 dp = Dispatcher(bot)
 
-ADMINS = (6231235387, 5150075707)
+ADMINS = (6231235387, 5150075708)
